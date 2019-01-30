@@ -6,11 +6,11 @@ Project 5 (Deploying to linux server)
 
 
 
-IP address: 167.99.237.74
+IP address: ****************
 
 Accessible SSH port: 2200
 
-Application URL: http://167.99.237.74
+Application URL: ****************
 
 ## Configuration Steps:
 ### Step 1 : Create new user named grader and give it the permission to sudo
